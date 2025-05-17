@@ -10,7 +10,6 @@
 > Shortcuts fetch the icons from the link so you do not have to add the icons on shortcuts yourself
 >
 ![image](https://github.com/user-attachments/assets/235e2de1-fe67-4e6f-a725-0c30e6bd7c8d)
-![Ekran görüntüsü 2025-05-14 145755](https://github.com/user-attachments/assets/03c43d86-9468-48e0-9b53-cf309d1cbb37)
 ![image](https://github.com/user-attachments/assets/edab694a-9787-48bd-a941-5afc498865c2)
 ![image](https://github.com/user-attachments/assets/dd32c48c-5459-4dab-ba71-ebec309d5b60)
 ![Ekran görüntüsü 2025-05-14 145725](https://github.com/user-attachments/assets/a6183006-d426-423a-881a-45fde3eca9d3)
