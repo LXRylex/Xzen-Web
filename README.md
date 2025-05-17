@@ -3,6 +3,8 @@
 > Customizeable & Fully compatible with chromium browsers
 > It's a custom made homepage to replace the browsers default homepage tabs
 >
+> Install from latest releases + guide is there im not paying 5 dollars to google
+>
 > Features:
 > Custom backgrounds
 > Solid color OR Gradient color
